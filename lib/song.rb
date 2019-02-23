@@ -10,6 +10,6 @@ class Song
   def count
     self.count
   end
-  
+
 
 end
