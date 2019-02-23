@@ -7,12 +7,14 @@ class Song
     @@count += 1
   end
 
+  def new(name, artist, genre)
+  end
   def count
     self.count
   end
 
   def genres
-    
+
   end
 
 end
