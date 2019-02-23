@@ -18,8 +18,8 @@ class Song
     @@count
   end
 
-  def genres
-
+  def self.artists
+    @@artists.uniq
   end
 
 end
